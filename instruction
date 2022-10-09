@@ -1,0 +1,3 @@
+1. Open Xamp server and run both apache and MySql
+2. Go to PhpMyAdmin and create database with name cdsms_db
+3. then import the database where you download it.
